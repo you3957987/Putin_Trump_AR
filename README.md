@@ -1,4 +1,4 @@
-노션 링크 : https://app.notion.com/p/3098942a9aa680fe9e3ac64f5729f026?source=copy_link
+[![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3098942a9aa680fe9e3ac64f5729f026?source=copy_link)
 
 ### 📖 게임 개요
 
