@@ -7,7 +7,6 @@
 | 이미지 타깃 [푸틴] | 이미지 타깃 [트럼프] |
 | :---: | :---: |
 | <img width="320" src="https://github.com/user-attachments/assets/20223f5a-5cff-4d97-b409-bfe757b7f394" /> | <img width="320" src="https://github.com/user-attachments/assets/724f6957-f9e6-4fb5-9f46-684ceda8e277" /> |
-| <sub>▲ [푸틴] 이미지 타깃</sub> | <sub>▲ [트럼프] 이미지 타깃</sub> |
 
 </div>
 
