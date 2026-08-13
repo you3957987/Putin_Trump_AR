@@ -1,6 +1,18 @@
-[![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3098942a9aa680fe9e3ac64f5729f026?source=copy_link)
+<div align="center">
+  
+  # 🥊 푸틴 트럼프 대격돌!
+  
+  [![Notion](https://img.shields.io/badge/노션_포트폴리오-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3098942a9aa680fe9e3ac64f5729f026?source=copy_link)
+  
+  <br>
 
-### 프로젝트 개요
+  <img width="800" alt="푸틴 트럼프 대격돌 썸네일" src="https://github.com/user-attachments/assets/7f4b86cb-56b1-40cb-b243-3bb00e26c333" />
+
+</div>
+
+<br>
+
+### 📌 프로젝트 개요
 
 * **성격 :** 상명대학교 지능형 혼합 현실 전공 수업 프로젝트
 * **핵심 목표 :** Vuforia Engine과 AR 기술을 활용하여, 현실 공간과 가상 3D 모델이 실시간으로 상호작용하는 안드로이드 모바일 게임 개발
